@@ -1,9 +1,10 @@
 <h1>Animação procedural</h1> 
 <h2>Sobre</h2>
-<p>Projeto desenvolvido para a disciplina de computação gráfica o qual tnha o objetivo e explorar tranformações, animação em partículas e criatividade. Para o trabalho foi fornecido o .objs com o respectivo objeto que deveria ser utilizado para fazer a animação no decorrer do trabalho. </p>
+<p>Projeto desenvolvido para a disciplina de computação gráfica o qual tnha o objetivo e explorar tranformações, animação em partículas e criatividade. Para o trabalho foi fornecido o .obj com o respectivo objeto que deveria ser utilizado para fazer a animação no decorrer do trabalho. </p>
 <p>Alguns especificações especifícações que o trabalho deveria conter:</p>
 <li>
-  <ul>Desenvolver a interação com a execução que deve permitir, através do teclado, rodar a animação, pausar, voltar ou ir para frente, conforme interface comum para execução de vídeo (PLAY, PAUSE, REWIND, FORWARD)</ul>
+  <ul>Desenvolver a interação com a execução que deve permitir, através do teclado, rodar a animação, pausar, voltar ou ir para frente,
+    conforme interface comum para execução de vídeo (PLAY, PAUSE, REWIND, FORWARD)</ul>
   <ul>Reproduzir a animação em partículas mais parecido possível com o vídeo (https://www.youtube.com/watch?t=26&v=t2an3xMuiew&feature=youtu.be) no intervalo de 0:26 a 0:43.</ul>
   <ul>Além do tempo acima, o vídeo deveria conter 10 segundos extras que deveriam conter movimentos novos</ul>
   <ul>Utilizar OpenGL</ul>
