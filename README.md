@@ -23,7 +23,7 @@
   formam um anel espacial e por fim forma um planeta</p>
 
 ## Pontos a melhorar:
-<p>Teclas de manipulação da animação não teem o funcionamento esperado, principalemente em relação as teclas de <Strong>back (B)</Strong> e <Strong>next (N). Sendo essas melhorias a serem feitas posteriormente. </p>
+<p>Teclas de manipulação da animação não teem o funcionamento esperado, principalemente em relação as teclas de <Strong>back (B)</Strong> e <Strong>next (N) </Strong>. Sendo essas melhorias a serem feitas posteriormente. </p>
 
   Bom uso!!
 
