@@ -9,7 +9,7 @@
     conforme interface comum para execução de vídeo (PLAY, PAUSE, REWIND, FORWARD)</li>
   <li>Reproduzir a animação em partículas mais parecido possível com o vídeo (https://www.youtube.com/watch?t=26&v=t2an3xMuiew&feature=youtu.be) no intervalo de 0:26 a 0:43.</li>
   <li>Além do tempo acima, o vídeo deveria conter 10 segundos extras que deveriam conter movimentos novos</li>
-  <li>Utilizar OpenGL</li>
+  <li>Utilizar biblioteca OpenGL</li>
 </ul>
 
 ## Como usar
